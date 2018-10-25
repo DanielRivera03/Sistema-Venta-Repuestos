@@ -1,0 +1,16 @@
+Usuarios: 
+
+1) Admin - admin
+   pass: admin.speedlimit
+
+2) Gerencia: presidencia.speedlimit
+   pass: gerencia.speedlimit
+
+3) Supervisores: daniel.rivera - carlos.guardado
+   pass: edmr.speedlimit - cemg.speedlimit
+
+4) Vendedores: ana.ramos - melissa.viana
+   pass: aers.speedlimit - mevr.speedlimit
+
+5) Clientes: invitado - Invitado
+   pass invitado123
