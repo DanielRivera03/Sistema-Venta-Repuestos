@@ -6,4 +6,4 @@ Sistema de ventas de repuestos automotrices SpeedLimit Taller
 Proyecto creado bajo fines educativos, por lo cual queda explicitamente prohibido el uso de este proyecto bajo fines comerciales.
 Este proyecto está creado bajo el lenguaje de programación C++
 
-![icon c](https://user-images.githubusercontent.com/44457989/47593505-d6331980-d934-11e8-83b8-8d4cd06e7557.png)
+![1522635669452_1](https://user-images.githubusercontent.com/44457989/47593631-345ffc80-d935-11e8-9cff-39025c1125a7.jpg)
